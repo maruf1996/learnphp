@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "Rasel",
+    "class": "Eleven",
+    "section": "A",
+    "city": "Barishal"
+  },
+  {
+    "id": "2",
+    "name": "Akter",
+    "class": "Ten",
+    "section": "B",
+    "city": "Bhola"
+  },
+  {
+    "id": "3",
+    "name": "Hasan",
+    "class": "Eleven",
+    "section": "C",
+    "city": "Bhola"
+  },
+  {
+    "id": "4",
+    "name": "Maruf",
+    "class": "Honours",
+    "section": "D",
+    "city": "Barishal"
+  },
+  {
+    "id": "5",
+    "name": "Fahad",
+    "class": "Eleven",
+    "section": "A",
+    "city": "Dhaka"
+  }
+]
